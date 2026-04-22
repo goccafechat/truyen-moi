@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Truyện Mới Online
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
@@ -151,7 +151,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+url: "https://truyen-moi.github.io"
+baseurl: "/truyen-moi"
 
 # ------------ The following options are not recommended to be modified ------------------
 
