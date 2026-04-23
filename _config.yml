@@ -2,13 +2,17 @@
 
 # Import the theme
 #theme: jekyll-theme-chirpy
-remote_theme: cotes2020/jekyll-theme-chirpy
+# Xóa hoặc comment dòng remote_theme
+# remote_theme: cotes2020/jekyll-theme-chirpy
+
+# Sử dụng dòng này
+theme: jekyll-theme-chirpy
 
 plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
