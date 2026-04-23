@@ -8,7 +8,6 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-sharing
   - jekyll-remote-theme
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
